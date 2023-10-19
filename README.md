@@ -16,10 +16,11 @@ A passionate Data Analyst with keen interest in Uncovering Insights from Complex
     
 </div>
 
-## 🏆 Trophies:
-<br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nupur-23&theme=onedark" alt="Nupur-23" /></a> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="[https://www.linkedin.com/in/nupur-kwatra-5440ab188/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/Nupur-23/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-singh-310054202" height="30" width="40" /></a>
 
+    
 ## TECH STACK :
 
 ![excel](https://img.shields.io/badge/excel-%252320232a.svg?style=for-the-badge&logo=microsoftexcel&logoColor=%252361DAFB) ![Python](https://img.shields.io/badge/python-CA4245?style=for-the-badge&logo=python&logoColor=white) ![powerbi](https://img.shields.io/badge/powerbi-%23593d88.svg?style=for-the-badge&logo=powerbi&logoColor=#F2C811) ![AWS](https://img.shields.io/badge/aws-%234ED1C5.svg?style=for-the-badge&logo=amazonaws&logoColor=#232F3E) ![ML](https://img.shields.io/badge/Machine_Learning-%234ea94b.svg?style=for-the-badge&logo=&logoColor=white)
