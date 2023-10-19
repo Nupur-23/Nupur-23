@@ -1,9 +1,6 @@
 ![image](https://github.com/Nupur-23/Nupur-23/assets/108872972/2d111644-260f-441a-9d35-c4e49424652c)
 <h1 align = "center">
  
-![a-man-looking-at-a-computer-screen-with-calculations-on-it](https://github.com/devvrat29/devvrat29/assets/146213827/4d19e5bb-06f8-4bc8-990b-e3fafc720455)
-
-
 Hi 👋, I'm Nupur Kwatra
 </h1>
 
