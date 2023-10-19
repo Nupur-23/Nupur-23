@@ -1,5 +1,41 @@
 ![image](https://github.com/Nupur-23/Nupur-23/assets/108872972/2d111644-260f-441a-9d35-c4e49424652c)
-<a href="https://www.python.org"> <img src="https://camo.githubusercontent.com/24303cd2424a9a9c092cb6f3108ae66c45d827c3bb8cac57c93c1831c058e43f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2e706e67" alt="python" height="50" > </a> 
+<h1 align = "center">
+ 
+![a-man-looking-at-a-computer-screen-with-calculations-on-it](https://github.com/devvrat29/devvrat29/assets/146213827/4d19e5bb-06f8-4bc8-990b-e3fafc720455)
+
+
+I'm Devvrat.
+</h1>
+
+<h3  align = "center">
+ <b>A problem solver who thrives on extracting knowledge from numbers</b>
+</h3>
+
+ <br>
+ <br>
+ <br>
+
+ **About Me**
+
+ - 🌐 Aspiring to make an impact as a **Data Analyst**
+   
+ - 🔭 Currently sharpening my **Analytical skills**
+
+ - 📜 Continuously expanding skill set in the **World of Data**
+
+ - 🎯 Aiming to excel as a data-driven **Problem Solver**
+
+ - 📫 Contact me through <strong> <a href="[(https://www.linkedin.com/in/nupur-kwatra-5440ab188/)]" >LinkedIn</a></strong>.
+
+<br>
+<br>
+<br>
+
+
+<h2 dir="auto"> <img src="https://camo.githubusercontent.com/b429fd0344f4072885b19923f824d4616893261e9d7cc2afb62f85224caca070/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a32704f476547594b65327843434b7766692f67697068792e676966" width="40" > <strong>Languages &amp; Tools:</strong></h2>
+ 
+ <p align="center">  
+    <a href="https://www.python.org"> <img src="https://camo.githubusercontent.com/24303cd2424a9a9c092cb6f3108ae66c45d827c3bb8cac57c93c1831c058e43f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2e706e67" alt="python" height="50" > </a> 
    <a href="https://numpy.org/doc/stable/index.html"> <img src="https://user-images.githubusercontent.com/137817362/266224257-b20f32fc-6cfe-48fe-8ef0-68c45373be61.png"  alt="numpy"  height="50" > </a>
    <a href="https://pandas.pydata.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" > </a> 
     <a href="https://matplotlib.org/stable/index.html" > <img src="https://user-images.githubusercontent.com/137817362/266225645-03569596-3262-411a-af13-1b678c60a2e1.png" alt="Matplotlib" width="50" height="50" > </a>
@@ -20,9 +56,9 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Github Stats :  
 </h2>
 
-<a href="https://github.com/devvrat29">
-<img src="https://github-readme-stats.vercel.app/api?username=devvrat29&&show_icons=true&theme=radical&line_height=27&v=5" alt="Devvrat's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvrat29&theme=radical&hide=glsl,python" />
+<a href="https://github.com/Nupur-23">
+<img src="https://github-readme-stats.vercel.app/api?username=Nupur-23&&show_icons=true&theme=radical&line_height=27&v=5" alt="Nupur's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nupur-23&theme=radical&hide=glsl,python" />
 
 <br>
 <br>
@@ -30,19 +66,8 @@
 
 <h2 dir="auto"> </a> <img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" > </a> <strong>Reach out to me:</strong> </h2>
 <p align="center" dir="auto">
-<a href="https://www.linkedin.com/in/devvrat-kaushik-84024b220/" > <img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67"  height="50" > </a>
-<a href="mailto:devkaushik611@gmail.com" > <img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67"  height="50" > </a>
-
-<br>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/devvrat29/count.svg" alt="Visitor Count">
-</p>
-
-<h2 align="center">
-  Show interest by starring some of the repositories!
-</h2>
-
+<a href="https://www.linkedin.com/in/nupur-kwatra-5440ab188/" > <img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67"  height="50" > </a>
+<a href="mailto:nupurkwatra0101@gmail.com@gmail.com" > <img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67"  height="50" > </a>
 
 <!--
 **Nupur-23/Nupur-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
