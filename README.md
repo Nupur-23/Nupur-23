@@ -1,27 +1,56 @@
-![image](https://github.com/Nupur-23/Nupur-23/assets/108872972/b9ccc974-6e0d-4eca-afda-c5be911e37c2)
-<h1 align="center">Hi 👋, I'm Nupur Kwatra</h1>
-<h3 align="center">A passionate Data Analyst with keen interest in Uncovering Insights from Complex Data Sets.</h3>
-<img align = "right" alt = "Coding" width = "400" src = "https://blog.imarticus.org/wp-content/uploads/2021/03/hhws.gif">
-<p align="left"> <img src=![images](https://github.com/Nupur-23/Nupur-23/assets/108872972/4b388504-2dbb-4339-97de-5e56c316a6f5) /> </p>
+![image](https://github.com/Nupur-23/Nupur-23/assets/108872972/2d111644-260f-441a-9d35-c4e49424652c)
+
+<h1 align="center" >Hi 👋, I'm Nupur Kwatra</h1>
+<h3 align="center">
+A passionate Data Analyst with keen interest in Uncovering Insights from Complex Data Sets.
+</h3>
+
+![images](https://github.com/Nupur-23/Nupur-23/assets/108872972/d56a9187-2c9f-4cc3-b9eb-ad56cba1a106)
+
+<br/>
+
+## 📊 Github Stats
+<div align="center" style="display: flex; flex-wrap: nowrap;">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Nupur-23&count_private=true&show_icons=true&theme=onedark" alt="Nupur-23" />
+    <img width="42.4%" src="http://github-readme-streak-stats.herokuapp.com?user=Nupur-23&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" alt="Nupur-23" />
+    
+</div>
+
+## 🏆 Trophies:
+<br/>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nupur-23&theme=onedark" alt="Nupur-23" /></a> </p>
+
+## TECH STACK :
+
+![excel](https://img.shields.io/badge/excel-%252320232a.svg?style=for-the-badge&logo=microsoftexcel&logoColor=%252361DAFB) ![Python](https://img.shields.io/badge/python-CA4245?style=for-the-badge&logo=python&logoColor=white) ![powerbi](https://img.shields.io/badge/powerbi-%23593d88.svg?style=for-the-badge&logo=powerbi&logoColor=#F2C811) ![AWS](https://img.shields.io/badge/aws-%234ED1C5.svg?style=for-the-badge&logo=amazonaws&logoColor=#232F3E) ![ML](https://img.shields.io/badge/Machine_Learning-%234ea94b.svg?style=for-the-badge&logo=&logoColor=white)
+
+ <img src="https://img.shields.io/badge/sql-323330?style=for-the-badge&logo=mysql&logoColor=#4479A1"/> <img src="https://img.shields.io/badge/Beautiful soup-563D7C?style=for-the-badge&logo=&logoColor=white"/>  ![selenium](https://img.shields.io/badge/selenium-38B2AC?style=for-the-badge&logo=selenium&logoColor=#43B02A)<img src="https://img.shields.io/badge/pandas-339933?style=for-the-badge&logo=pandas&logoColor=#150458"/> <img src="https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=numpy&logoColor=#013243"/>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="40" height="40"/> </a> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="powerbi" width="40" height="40"/>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+
+<!-- <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) -->
+<!-- <a href="https://twitter.com/fullstuckVishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/fullstuckVishal" height="30" width="40" /></a> -->
+<!-- <a href="https://www.instagram.com/Sanskrutee-Dudhe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/Sanskrutee-Dudhe/" height="30" width="40" /></a> -->
 </p>
 
-<h3 align="left">Github Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nupur-23&show_icons=true&locale=en&layout=compact" alt="Nupur-23" /></p>
+## ❤ Views and Followers
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nupur-23&show_icons=true&locale=en" alt="Nupur-23" /></p>
+<a href="https://github.com/Sanskrutee-Dudhe/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Sanskrutee-Dudhe">
+</a>
+<a href="https://github.com/Sanskrutee-Dudhe?tab=followers"><img src="https://img.shields.io/github/followers/Sanskrutee-Dudhe?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nupur-23&" alt="Nupur-23" /></p>
+ <hr/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="(https://www.linkedin.com/in/nupur-kwatra-5440ab188/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/Nupur-23/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-singh-310054202" height="30" width="40" /></a>
-<a href="nupurkwatra0101@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="Gmail" height="30" width="50" /></a>
-</p>
+ <h2 dir="auto"></a><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" ></a> <strong>Reach out to me:</strong> </h2>
+<p align="center" dir="auto">
+<a href="https://www.linkedin.com/in/ankita-keshri-60686022a/" ><img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67"  height="50" ></a>
+
+
+
+
 
 
 <!--
