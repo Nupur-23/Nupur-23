@@ -4,7 +4,7 @@
 ![a-man-looking-at-a-computer-screen-with-calculations-on-it](https://github.com/devvrat29/devvrat29/assets/146213827/4d19e5bb-06f8-4bc8-990b-e3fafc720455)
 
 
-I'm Devvrat.
+Hi 👋, I'm Nupur Kwatra
 </h1>
 
 <h3  align = "center">
