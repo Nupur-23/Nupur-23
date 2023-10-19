@@ -4,7 +4,9 @@
 
 A Passionate Data Analyst with keen interest in Uncovering Insights from complex Data Sets.
 
-![Uploading image.png…]()
+![images](https://github.com/Nupur-23/Nupur-23/assets/108872972/0da5cf47-33e3-4a8e-8d49-c8464bb0fafd)
+
+
 
 
 
