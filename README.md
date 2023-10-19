@@ -1,57 +1,47 @@
 ![image](https://github.com/Nupur-23/Nupur-23/assets/108872972/2d111644-260f-441a-9d35-c4e49424652c)
+<a href="https://www.python.org"> <img src="https://camo.githubusercontent.com/24303cd2424a9a9c092cb6f3108ae66c45d827c3bb8cac57c93c1831c058e43f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2e706e67" alt="python" height="50" > </a> 
+   <a href="https://numpy.org/doc/stable/index.html"> <img src="https://user-images.githubusercontent.com/137817362/266224257-b20f32fc-6cfe-48fe-8ef0-68c45373be61.png"  alt="numpy"  height="50" > </a>
+   <a href="https://pandas.pydata.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" > </a> 
+    <a href="https://matplotlib.org/stable/index.html" > <img src="https://user-images.githubusercontent.com/137817362/266225645-03569596-3262-411a-af13-1b678c60a2e1.png" alt="Matplotlib" width="50" height="50" > </a>
+    <a href="https://seaborn.pydata.org/" > <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="55" > </a>
+    <a href="https://www.mysql.com/" > <img src="https://user-images.githubusercontent.com/137817362/266228834-b2263294-73a0-4c3f-a7e0-0c20609a7578.png"  alt="MySQL" width="50" height="50"> </a>
+    <a href="https://scikit-learn.org/stable/user_guide.html" > <img src="https://user-images.githubusercontent.com/137817362/266236281-b7d10478-13a6-4747-bdf2-612e4256c615.png"  alt="Sklearn"  height="50"> </a>
+   <a href="https://aws.amazon.com/?nc2=h_lg" > <img src="https://user-images.githubusercontent.com/137817362/266250670-4058ba47-c3a0-4835-a4e2-002402175cca.png" alt="AWS"  height="40"> </a>
+    <a href="https://www.selenium.dev/documentation/" > <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="AWS"  height="47"> </a>
+   <a href="https://powerbi.microsoft.com/en-in/desktop/"  > <img src="https://user-images.githubusercontent.com/137817362/266267984-ab3e4a04-0d60-45e1-bf3a-57b038ee1427.png" height="48" alt="PowerBiDesktop" >
+    <a href="https://www.microsoft.com/en-in/microsoft-365/excel" > <img src="https://camo.githubusercontent.com/6210c820aedc56cac0ff68310216858a28e267c72fbdc89700167caafe3606f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f6d6963726f736f66742d657863656c2d323031392e706e67" width="50" height="55" > </a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" > <img src="https://camo.githubusercontent.com/c24d399e4e3f39d7d5a118314f185e5974d3eaeb05181054a0ea8bb34f3cc3f5/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d6963726f736f66742d706f776572706f696e742d323031392d2d76312e706e67" width="55" height="55" > </a>
 
-<h1 align="center" >Hi 👋, I'm Nupur Kwatra</h1>
-<h3 align="center">
-A passionate Data Analyst with keen interest in Uncovering Insights from Complex Data Sets.
-</h3>
+<br>
+<br>
+<br>
 
-![images](https://github.com/Nupur-23/Nupur-23/assets/108872972/d56a9187-2c9f-4cc3-b9eb-ad56cba1a106)
+<h2>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Github Stats :  
+</h2>
 
-<br/>
+<a href="https://github.com/devvrat29">
+<img src="https://github-readme-stats.vercel.app/api?username=devvrat29&&show_icons=true&theme=radical&line_height=27&v=5" alt="Devvrat's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvrat29&theme=radical&hide=glsl,python" />
 
-## 📊 Github Stats
-<div align="center" style="display: flex; flex-wrap: nowrap;">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Nupur-23&count_private=true&show_icons=true&theme=onedark" alt="Nupur-23" />
-    <img width="42.4%" src="http://github-readme-streak-stats.herokuapp.com?user=Nupur-23&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" alt="Nupur-23" />
-    
-</div>
+<br>
+<br>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://www.linkedin.com/in/nupur-kwatra-5440ab188/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/Nupur-23/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-singh-310054202" height="30" width="40" /></a>
+<h2 dir="auto"> </a> <img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" > </a> <strong>Reach out to me:</strong> </h2>
+<p align="center" dir="auto">
+<a href="https://www.linkedin.com/in/devvrat-kaushik-84024b220/" > <img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67"  height="50" > </a>
+<a href="mailto:devkaushik611@gmail.com" > <img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67"  height="50" > </a>
 
-    
-## TECH STACK :
+<br>
 
-![excel](https://img.shields.io/badge/excel-%252320232a.svg?style=for-the-badge&logo=microsoftexcel&logoColor=%252361DAFB) ![Python](https://img.shields.io/badge/python-CA4245?style=for-the-badge&logo=python&logoColor=white) ![powerbi](https://img.shields.io/badge/powerbi-%23593d88.svg?style=for-the-badge&logo=powerbi&logoColor=#F2C811) ![AWS](https://img.shields.io/badge/aws-%234ED1C5.svg?style=for-the-badge&logo=amazonaws&logoColor=#232F3E) ![ML](https://img.shields.io/badge/Machine_Learning-%234ea94b.svg?style=for-the-badge&logo=&logoColor=white)
-
- <img src="https://img.shields.io/badge/sql-323330?style=for-the-badge&logo=mysql&logoColor=#4479A1"/> <img src="https://img.shields.io/badge/Beautiful soup-563D7C?style=for-the-badge&logo=&logoColor=white"/>  ![selenium](https://img.shields.io/badge/selenium-38B2AC?style=for-the-badge&logo=selenium&logoColor=#43B02A)<img src="https://img.shields.io/badge/pandas-339933?style=for-the-badge&logo=pandas&logoColor=#150458"/> <img src="https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=numpy&logoColor=#013243"/>
-
-
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-
-<!-- <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) -->
-<!-- <a href="https://twitter.com/fullstuckVishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/fullstuckVishal" height="30" width="40" /></a> -->
-<!-- <a href="https://www.instagram.com/Sanskrutee-Dudhe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/Sanskrutee-Dudhe/" height="30" width="40" /></a> -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/devvrat29/count.svg" alt="Visitor Count">
 </p>
 
-## ❤ Views and Followers
-
-<a href="https://github.com/Sanskrutee-Dudhe/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Sanskrutee-Dudhe">
-</a>
-<a href="https://github.com/Sanskrutee-Dudhe?tab=followers"><img src="https://img.shields.io/github/followers/Sanskrutee-Dudhe?label=Followers&style=social" alt="GitHub Badge"></a>
-
- <hr/>
-
- <h2 dir="auto"></a><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" ></a> <strong>Reach out to me:</strong> </h2>
-<p align="center" dir="auto">
-<a href="https://www.linkedin.com/in/ankita-keshri-60686022a/" ><img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67"  height="50" ></a>
-
-
-
-
+<h2 align="center">
+  Show interest by starring some of the repositories!
+</h2>
 
 
 <!--
