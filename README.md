@@ -5,7 +5,7 @@ Hi 👋, I'm Nupur Kwatra
 </h1>
 
 <h3  align = "center">
- <b>Enthusiastic fresher in data analytics with a strong foundation in statistical analysis, data manipulation, and visualization. Proficient in Python, Power BI, and SQL. Experienced in project-based data analysis and interpretation.
+ <b>Passionate entry-level data analytics professional with a robust background in statistical analysis, data manipulation, and visualization. Skilled in Python, Power BI, and SQL. Demonstrated experience in conducting project-based data analysis and interpretation.
 </b>
 </h3>
 
